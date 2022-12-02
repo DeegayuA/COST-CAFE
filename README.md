@@ -1,5 +1,7 @@
 # COST_CAFE
-Java project done for 2nd year 1st sem.
+Cafe management system with the roles of owner, cashier, and inventory manager. This is a Java project that was done for 2nd year 1st sem. 
+
+
 V1
 
 <img width="475" alt="Screenshot 2022-11-16 at 11 03 45" src="https://user-images.githubusercontent.com/63475473/202909350-430d6c57-2ab9-46c2-8d7e-013a81b23aaa.png">
